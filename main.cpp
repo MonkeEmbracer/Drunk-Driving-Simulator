@@ -17,7 +17,7 @@ CONST_maxKidCount = 6, CONST_kidCount = 2, CONST_maxCarCount = 3, CONST_animatio
 CONST_maxEndscreenText = 8, CONST_maxBullets = 40, CONST_huditemCount = 6, CONST_maxTargets = 5, CONST_carSpawnChance[] = { 50, 100, 100, 100, 100, 50, 100, 100, 100, 100, 100, 100, 100, 100 }, CONST_maxBalls = 10,
 CONST_maxVendorItems = 3, CONST_defaultSeaLevel = 1040, CONST_maxFishes = 7, yFlane[] = { 250, 350, 450, 550, 650, 750 }, CONST_maxFishFrames = 3, CONST_fishSpawnChance[] = { 200, 75, 50, 20, 20, 20, 35},
 CONST_fishFrames[] = { 2, 3, 3, 3, 3, 3, 2 }, CONST_maxFishShadows = 4, CONST_fishShadows[] = { 1, 1, 1, 1, 4, 1, 2 }, CONST_numberOfASongs[] = { 0, 0, 0, 4 }, CONST_maxMoneybags = 1, CONST_moneybagValue[] = { 30 }, 
-CONST_oyeNumber = 8, CONST_itemPrice[] = { 120, 30, 70 };
+CONST_oyeNumber = 8, CONST_itemPrice[] = { 100, 20, 55 };
 
 const int PRIORITY_car = 5, PRIORITY_explosion = 0, PRIORITY_kid = 4, PRIORITY_banana = 1, PRIORITY_shot = 2, PRIORITY_rpg = 3;
 
@@ -3259,16 +3259,16 @@ int main()
                 {
                     if (lastEvent == 0 and activeEvent == 0)
                     {
-                        Rand = rand() % 5;
+                        Rand = rand() % 10;
 
-                        if (Rand == 0 and tsunamiCooldown == 0)
+                        if (Rand < 2 and tsunamiCooldown == 0)
                         {
                             activeEvent = 7;
                             lastEvent = -1;
                             eventTime = 0;
                             eventTimeFrame = 0;
                         }
-                        else if (Rand < 3)
+                        else if (Rand < 6)
                         {
                             activeEvent = 5;
                             lastEvent = -1;
@@ -4466,7 +4466,7 @@ int main()
             {
                 Rand = rand() % 10000;
 
-                if (Rand < 20 and (!donutEquipped or !cornEquipped or !seashellEquipped))
+                if (Rand < 28 and (!donutEquipped or !cornEquipped or !seashellEquipped))
                 {
                     vendor.active = 1;
                     vendor.frame = 0;
@@ -5228,7 +5228,7 @@ int main()
                 {
                     Rand = rand() % 10000;
 
-                    if (Rand < 12)
+                    if (Rand < 14)
                     {
                         Rand = rand() % 4;
 
@@ -5863,7 +5863,7 @@ int main()
 
             summonWhale = bellfishEquipped = donutEquipped = cornEquipped = seashellEquipped = p1Dead = 0;
 
-            tsunamiCooldown = -1200;
+            tsunamiCooldown = -750;
 
             status = 1;
 
