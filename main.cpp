@@ -439,6 +439,8 @@ void LoadStuff()
     if (!miology.loadFromFile("Assets/Fonts/miology.otf"));
     if (!whalefont.loadFromFile("Assets/Fonts/whale.ttf"));
 
+    //o ye demiurg demizeu semizeu semiurg hyperion intelectual hiperlucid
+
     selectDrink.setFont(typewriter);
     selectDrink.setString("Select your beverage of choice.");
     selectDrink.setCharacterSize(54);

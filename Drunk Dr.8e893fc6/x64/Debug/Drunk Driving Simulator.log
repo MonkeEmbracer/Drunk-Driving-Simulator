@@ -1,668 +1,669 @@
 ﻿  main.cpp
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(231,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(231,30): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(231,30): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(231,30): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(231,30): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,60): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,60): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,60): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,60): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,42): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,42): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,42): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(233,42): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,42): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,42): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,42): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,42): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,30): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,30): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,30): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(250,30): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,81): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,81): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,81): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,81): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,55): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,55): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,55): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(408,55): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,76): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,76): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,76): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,76): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,54): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,54): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,54): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(559,54): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,79): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,79): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,79): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,79): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,56): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,56): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,56): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(563,56): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(598,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(598,56): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(598,56): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(598,56): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(598,56): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(616,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(616,71): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(616,71): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(616,71): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(616,71): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,66): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,66): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,66): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,66): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,47): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,47): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,47): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(626,47): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,66): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,66): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,66): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,66): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,46): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,46): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,46): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(655,46): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,63): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,63): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,63): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,63): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,44): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,44): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,44): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(669,44): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,59): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,59): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,59): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,59): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,40): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,40): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,40): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(675,40): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,80): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,80): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,80): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,80): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,53): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,53): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,53): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(829,53): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,72): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,72): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,72): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,72): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,50): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,50): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,50): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(873,50): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,75): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,75): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,75): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,75): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,52): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,52): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,52): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(887,52): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,78): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,78): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,78): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,78): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,54): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,54): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,54): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(898,54): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,72): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,72): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,72): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,72): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,50): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,50): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,50): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(935,50): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,84): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,84): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,84): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,84): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,58): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,58): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,58): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(943,58): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,63): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,63): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,63): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,63): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,46): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,46): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,46): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(951,46): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,66): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,66): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,66): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,66): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,46): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,46): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,46): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(965,46): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,84): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,84): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,84): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,84): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,58): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,58): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,58): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(968,58): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1037,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1037,66): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1037,66): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1037,66): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1037,66): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,77): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,77): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,77): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,77): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,49): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,49): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,49): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1044,49): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,80): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,80): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,80): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,80): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,51): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,51): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,51): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1048,51): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,92): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,92): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,92): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,92): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,92): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,59): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,59): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,59): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1052,59): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1100,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1100,44): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1100,44): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1100,44): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1100,44): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1102,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1103,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(393,79): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(397,78): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(401,79): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(405,78): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(411,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(412,80): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(413,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(414,82): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(415,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(416,82): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(418,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(419,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(424,78): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(429,85): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(432,87): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(435,55): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(436,65): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(437,55): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(438,63): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(439,59): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(440,59): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(556,55): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(560,56): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(575,52): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(586,52): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(595,54): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(610,60): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(621,74): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(629,83): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(630,93): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(631,83): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(632,90): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(633,96): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(640,48): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(652,49): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(658,88): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(659,88): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(666,48): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(672,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(677,74): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(680,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(692,53): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(703,54): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(706,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(709,74): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(713,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(715,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(723,52): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(727,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(729,81): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(731,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(734,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(736,65): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(740,79): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(742,81): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(744,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(746,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(749,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(751,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(753,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(755,79): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(757,83): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(759,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(761,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(763,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(765,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(767,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(769,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(771,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(773,73): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(775,71): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(777,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(779,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(781,64): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(783,76): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(785,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(787,74): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(789,76): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(791,77): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(793,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(795,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(797,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(799,77): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(801,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(803,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(805,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(807,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(809,64): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(818,52): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(827,80): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(868,71): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(876,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(884,52): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(895,53): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(906,52): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(916,53): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(921,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(922,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(926,80): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(930,73): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(938,82): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(946,69): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(954,72): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(957,84): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(958,84): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(960,69): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(982,50): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(990,54): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(993,69): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(996,68): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(997,78): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1001,76): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1002,86): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1003,78): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1017,62): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1032,61): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1042,71): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1046,73): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1050,81): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1054,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1055,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1056,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1057,75): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1058,82): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1059,82): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1062,78): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1064,70): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1066,71): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1067,83): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1069,80): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1070,87): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1071,89): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1072,69): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1074,67): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1076,71): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1078,65): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1080,65): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1082,63): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1084,63): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1086,71): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1088,84): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1091,65): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1096,67): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1098,67): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1104,65): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1138,53): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1143,59): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1155,47): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1327,18): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1469,12): warning C4101: 'j': unreferenced local variable
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1494,12): warning C4101: 'j': unreferenced local variable
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1584,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1711,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1716,60): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1730,68): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1741,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1800,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1807,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1810,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1812,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1819,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1826,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1833,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1847,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1855,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1865,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1874,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1874,48): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1874,48): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1874,48): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1874,48): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1877,54): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1877,109): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1879,75): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1879,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1879,151): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1879,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2006,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2006,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2002,89): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,83): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,83): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,83): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,83): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,53): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,53): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,53): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2034,53): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2032,80): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2057,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2057,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2053,89): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2066,20): warning C4244: 'initializing': conversion from 'long double' to '__int64', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2067,21): warning C4244: 'initializing': conversion from 'T' to '__int64', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2067,21): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2067,21): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2067,21): warning C4244:             T=float
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2067,21): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2140,91): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2184,54): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2520,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2539,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2691,76): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2733,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2895,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2895,84): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2895,84): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2895,84): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2895,84): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2898,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2898,62): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2898,62): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2898,62): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2898,62): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2901,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2901,80): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2901,80): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2901,80): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2901,80): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2910,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2910,79): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2910,79): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2910,79): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2910,79): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(2978,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3047,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3047,84): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3047,84): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3047,84): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3047,84): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3050,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3050,62): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3050,62): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3050,62): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3050,62): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3053,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3053,80): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3053,80): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3053,80): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3053,80): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3062,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3062,79): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3062,79): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3062,79): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3062,79): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3094,33): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3095,33): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3120,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3129,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3130,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3140,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3141,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3350,67): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3350,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3443,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3443,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3447,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3447,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3451,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3451,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3478,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3478,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3479,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3479,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,109): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,109): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,109): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,109): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,109): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,81): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,81): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,81): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3582,81): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,136): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,136): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,136): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,136): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,136): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,87): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,87): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,87): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,87): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3583,87): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3591,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3592,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3612,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3613,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3718,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3780,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3859,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3881,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3898,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3898,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3898,58): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3898,58): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3898,58): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3898,58): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3910,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3915,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3995,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4006,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4025,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4025,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4135,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4135,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4135,52): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4135,52): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4135,52): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4135,52): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4172,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4172,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4172,51): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4172,51): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4172,51): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4172,51): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4297,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4297,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4297,55): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4297,55): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4297,55): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4297,55): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4305,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4330,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4330,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4330,56): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4330,56): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4330,56): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4330,56): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4338,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4490,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4490,56): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4490,56): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4490,56): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4490,56): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,78): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,78): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,78): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,78): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,61): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,61): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,61): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4494,61): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,78): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,78): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,78): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,78): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,61): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,61): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,61): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4496,61): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4505,69): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4734,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4735,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5037,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5067,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5068,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5069,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5070,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5102,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5103,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5104,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5105,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5121,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5243,88): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5243,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5243,56): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5243,56): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5243,56): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5243,56): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5244,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5244,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5244,62): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5244,62): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5244,62): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5244,62): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5260,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5261,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,83): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,83): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,83): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,83): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,57): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,57): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,57): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5320,57): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5667,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5829,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5830,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5922,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5922,52): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5922,52): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5922,52): warning C4244:             T=unsigned int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5922,52): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5937,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,65): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,65): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,65): warning C4244:             T=int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,65): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,48): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,48): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,48): warning C4244:             T=int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6022,48): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,65): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,65): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,65): warning C4244:             T=int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,65): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,48): warning C4244:         with
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,48): warning C4244:         [
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,48): warning C4244:             T=int
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(6031,48): warning C4244:         ]
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3474,109): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3852,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(3871,62): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(4021,113): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(5576,66): warning C4390: ';': empty controlled statement found; is this the intent?
-E:\Studioul Vizual\Drunk Driving Simulator\main.cpp(1659,1): warning C4715: 'CarSpawnRNG': not all control paths return a value
-  Drunk Driving Simulator.vcxproj -> E:\Studioul Vizual\Drunk Driving Simulator\x64\Debug\Drunk Driving Simulator.exe
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(231,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(231,30): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(231,30): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(231,30): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(231,30): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,60): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,60): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,60): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,60): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,42): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,42): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,42): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(233,42): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,42): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,42): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,42): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,42): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,30): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,30): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,30): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(250,30): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,81): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,81): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,81): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,81): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,55): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,55): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,55): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(408,55): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,76): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,76): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,76): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,76): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,54): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,54): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,54): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(559,54): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,79): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,79): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,79): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,79): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,56): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,56): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,56): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(563,56): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(598,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(598,56): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(598,56): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(598,56): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(598,56): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(616,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(616,71): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(616,71): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(616,71): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(616,71): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,66): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,66): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,66): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,66): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,47): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,47): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,47): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(626,47): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,66): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,66): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,66): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,66): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,46): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,46): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,46): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(655,46): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,63): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,63): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,63): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,63): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,44): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,44): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,44): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(669,44): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,59): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,59): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,59): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,59): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,40): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,40): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,40): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(675,40): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,80): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,80): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,80): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,80): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,53): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,53): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,53): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(829,53): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,72): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,72): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,72): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,72): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,50): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,50): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,50): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(873,50): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,75): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,75): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,75): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,75): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,52): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,52): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,52): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(887,52): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,78): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,78): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,78): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,78): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,54): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,54): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,54): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(898,54): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,72): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,72): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,72): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,72): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,50): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,50): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,50): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(935,50): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,84): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,84): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,84): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,84): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,58): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,58): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,58): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(943,58): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,63): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,63): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,63): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,63): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,46): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,46): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,46): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(951,46): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,66): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,66): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,66): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,66): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,46): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,46): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,46): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(965,46): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,84): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,84): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,84): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,84): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,58): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,58): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,58): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(968,58): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1037,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1037,66): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1037,66): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1037,66): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1037,66): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,77): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,77): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,77): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,77): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,49): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,49): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,49): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1044,49): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,80): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,80): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,80): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,80): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,51): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,51): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,51): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1048,51): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,92): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,92): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,92): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,92): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,92): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,59): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,59): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,59): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1052,59): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1100,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1100,44): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1100,44): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1100,44): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1100,44): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1102,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1103,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(393,79): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(397,78): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(401,79): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(405,78): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(411,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(412,80): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(413,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(414,82): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(415,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(416,82): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(418,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(419,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(424,78): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(429,85): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(432,87): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(435,55): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(436,65): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(437,55): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(438,63): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(439,59): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(440,59): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(556,55): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(560,56): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(575,52): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(586,52): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(595,54): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(610,60): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(621,74): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(629,83): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(630,93): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(631,83): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(632,90): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(633,96): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(640,48): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(652,49): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(658,88): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(659,88): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(666,48): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(672,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(677,74): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(680,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(692,53): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(703,54): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(706,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(709,74): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(713,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(715,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(723,52): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(727,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(729,81): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(731,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(734,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(736,65): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(740,79): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(742,81): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(744,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(746,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(749,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(751,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(753,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(755,79): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(757,83): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(759,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(761,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(763,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(765,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(767,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(769,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(771,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(773,73): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(775,71): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(777,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(779,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(781,64): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(783,76): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(785,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(787,74): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(789,76): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(791,77): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(793,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(795,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(797,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(799,77): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(801,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(803,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(805,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(807,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(809,64): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(818,52): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(827,80): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(868,71): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(876,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(884,52): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(895,53): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(906,52): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(916,53): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(921,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(922,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(926,80): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(930,73): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(938,82): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(946,69): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(954,72): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(957,84): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(958,84): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(960,69): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(982,50): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(990,54): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(993,69): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(996,68): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(997,78): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1001,76): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1002,86): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1003,78): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1017,62): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1032,61): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1042,71): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1046,73): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1050,81): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1054,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1055,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1056,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1057,75): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1058,82): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1059,82): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1062,78): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1064,70): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1066,71): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1067,83): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1069,80): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1070,87): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1071,89): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1072,69): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1074,67): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1076,71): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1078,65): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1080,65): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1082,63): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1084,63): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1086,71): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1088,84): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1091,65): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1096,67): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1098,67): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1104,65): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1138,53): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1143,59): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1155,47): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1327,18): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1469,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1494,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1584,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1711,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1716,60): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1730,68): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1741,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1800,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1807,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1810,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1812,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1819,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1826,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1833,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1847,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1855,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1865,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1874,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1874,48): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1874,48): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1874,48): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1874,48): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1877,54): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1877,109): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1879,75): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1879,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1879,151): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1879,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2006,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2006,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2002,89): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,83): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,83): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,83): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,83): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,53): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,53): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,53): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2034,53): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2032,80): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2057,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2057,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2053,89): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2066,20): warning C4244: 'initializing': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2067,21): warning C4244: 'initializing': conversion from 'T' to '__int64', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2067,21): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2067,21): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2067,21): warning C4244:             T=float
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2067,21): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2140,91): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2184,54): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2520,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2539,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2691,76): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2733,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2895,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2895,84): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2895,84): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2895,84): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2895,84): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2898,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2898,62): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2898,62): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2898,62): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2898,62): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2901,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2901,80): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2901,80): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2901,80): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2901,80): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2910,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2910,79): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2910,79): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2910,79): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2910,79): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(2978,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3047,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3047,84): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3047,84): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3047,84): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3047,84): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3050,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3050,62): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3050,62): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3050,62): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3050,62): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3053,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3053,80): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3053,80): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3053,80): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3053,80): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3062,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3062,79): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3062,79): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3062,79): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3062,79): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3094,33): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3095,33): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3120,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3129,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3130,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3140,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3141,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3350,67): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3350,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3443,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3443,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3447,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3447,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3451,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3451,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3478,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3478,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3479,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3479,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,109): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,109): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,109): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,109): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,109): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,81): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,81): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,81): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3582,81): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,136): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,136): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,136): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,136): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,136): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,87): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,87): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,87): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,87): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3583,87): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3591,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3592,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3612,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3613,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3718,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3780,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3859,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3881,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3898,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3898,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3898,58): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3898,58): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3898,58): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3898,58): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3910,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3915,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3995,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4006,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4025,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4025,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4135,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4135,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4135,52): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4135,52): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4135,52): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4135,52): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4172,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4172,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4172,51): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4172,51): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4172,51): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4172,51): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4297,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4297,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4297,55): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4297,55): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4297,55): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4297,55): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4305,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4330,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4330,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4330,56): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4330,56): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4330,56): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4330,56): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4338,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4490,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4490,56): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4490,56): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4490,56): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4490,56): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,78): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,78): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,78): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,78): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,61): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,61): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,61): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4494,61): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,78): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,78): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,78): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,78): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,61): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,61): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,61): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4496,61): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4505,69): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4734,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4735,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5037,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5067,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5068,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5069,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5070,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5102,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5103,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5104,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5105,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5121,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5243,88): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5243,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5243,56): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5243,56): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5243,56): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5243,56): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5244,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5244,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5244,62): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5244,62): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5244,62): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5244,62): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5260,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5261,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,83): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,83): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,83): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,83): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,57): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,57): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,57): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5320,57): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5667,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5829,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5830,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5922,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5922,52): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5922,52): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5922,52): warning C4244:             T=unsigned int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5922,52): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5937,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,65): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,65): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,65): warning C4244:             T=int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,65): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,48): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,48): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,48): warning C4244:             T=int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6022,48): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,65): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,65): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,65): warning C4244:             T=int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,65): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,48): warning C4244:         with
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,48): warning C4244:         [
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,48): warning C4244:             T=int
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(6031,48): warning C4244:         ]
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3474,109): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3852,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(3871,62): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(4021,113): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(5576,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\main.cpp(1659,1): warning C4715: 'CarSpawnRNG': not all control paths return a value
+  LINK : C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\x64\Debug\Drunk Driving Simulator.exe not found or not built by the last incremental link; performing full link
+  Drunk Driving Simulator.vcxproj -> C:\Users\Bogdan\Desktop\DDS\Drunk-Driving-Simulator\x64\Debug\Drunk Driving Simulator.exe
